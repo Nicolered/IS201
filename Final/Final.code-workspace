@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/startbootstrap-business-frontpage-gh-pages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Final"
+	}
+}
